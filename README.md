@@ -23,7 +23,7 @@ Usage
 
 # Link to demo live project
 
-https://sheltered-reef-58812.herokuapp.com
+https://savedatcurrency.herokuapp.com
 
 Built With
 
@@ -32,7 +32,8 @@ Node.js
 Express
 MongoDB
 Mongoose
-Credits
+
+# Credits
 
 Mustafa Mustafa (https://github.com/musstaffali)
 
